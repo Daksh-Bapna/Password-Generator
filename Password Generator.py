@@ -9,16 +9,3 @@ p=(string.punctuation)
 all= a+p+d
 my_random=random.sample(all,i)
 print(''.join(my_random))
-
-
-
-
-# _______________________________________________________________________________________________
-# PASSWORD CHECKER 
-
-# a=input('Enter your Password : ')
-# b=()
-
-
-
-
